@@ -3,6 +3,18 @@
     <channel>
         <title>Sighting</title>
         <item>
+            <title>0.1.6</title>
+            <pubDate>Fri, 23 Oct 2026 04:25:08 +0000</pubDate>
+            <sparkle:fullReleaseNotesLink>https://github.com/ompatel-24/sighting-releases/releases/tag/v0.1.6</sparkle:fullReleaseNotesLink>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.1.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="plain-text"><![CDATA[Constellation plate: pluck a star, watch work travel down its line, and the team slowly orbits its lead
+]]></description>
+            <enclosure url="https://github.com/ompatel-24/sighting-releases/releases/download/v0.1.6/Sighting-0.1.6.zip" length="3840265" type="application/octet-stream" sparkle:edSignature="jiRYx4KuIneiWwzTG8/s/5wDiKEKFQyHiUBOraGXFdrcxs1wbFN2sT5XKOg3Koum2ROS6Uzywhg8FmlAyHLiAg=="/>
+        </item>
+        <item>
             <title>0.1.5</title>
             <pubDate>Fri, 23 Oct 2026 04:17:19 +0000</pubDate>
             <sparkle:fullReleaseNotesLink>https://github.com/ompatel-24/sighting-releases/releases/tag/v0.1.5</sparkle:fullReleaseNotesLink>
@@ -25,18 +37,6 @@
             <description sparkle:format="plain-text"><![CDATA[Keep the account session without Keychain password prompts
 ]]></description>
             <enclosure url="https://github.com/ompatel-24/sighting-releases/releases/download/v0.1.4/Sighting-0.1.4.zip" length="3773042" type="application/octet-stream" sparkle:edSignature="JW0bqyw+rltIqYz/zh3uCuAM42dVUHdTNogUT8eMVFCscghJQj2SCxQWEwy20PXt9rv9NUD++jCHjyO9+1OOBA=="/>
-        </item>
-        <item>
-            <title>0.1.3</title>
-            <pubDate>Thu, 22 Oct 2026 23:30:15 +0000</pubDate>
-            <sparkle:fullReleaseNotesLink>https://github.com/ompatel-24/sighting-releases/releases/tag/v0.1.3</sparkle:fullReleaseNotesLink>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="plain-text"><![CDATA[Notarized DMG for first-time downloads
-]]></description>
-            <enclosure url="https://github.com/ompatel-24/sighting-releases/releases/download/v0.1.3/Sighting-0.1.3.zip" length="3768482" type="application/octet-stream" sparkle:edSignature="dJ/F0WLygS0OjdrTbaB6TUlK10kDRyyPgwbjND8KJo6M6j/amM4oB6Q465MWZkd2DfQ05Ks4j51Epa7XUJr0CA=="/>
         </item>
     </channel>
 </rss>
