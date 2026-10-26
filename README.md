@@ -1,8 +1,8 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="docs/main-dark.png">
-    <img src="docs/main-light.png" alt="Sighting's console: the lead at the centre of a constellation of agents, with lines lit to the agents working right now" width="900">
-  </picture>
+  <a href="docs/demo.mp4">
+    <img src="docs/demo.gif" alt="A 30-second tour of Sighting: the constellation orbiting with lit lines, dragging a star, opening an agent's chat, asking the lead with Plan first, the ⌘K command bar, and the notch" width="900">
+  </a>
+  <br><sub>30-second tour · <a href="docs/demo.mp4">watch in full quality</a></sub>
 </p>
 
 <h1 align="center">Sighting</h1>
@@ -29,6 +29,13 @@ The agents are your own CLIs, **Claude Code** and **Codex**, running on your Mac
 ## The constellation
 
 Your team is drawn as a constellation. The lead sits at the centre, and every agent it hires gets a star and a line. A line lights up while that agent is working, with a pulse travelling from the lead to the agent. Stars show each agent's state: working, queued, done, error, or waiting on you. Drag a star to play with it, or click it to see what that agent is doing.
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="docs/main-dark.png">
+    <img src="docs/main-light.png" alt="Sighting's console: the lead at the centre of a constellation of agents, with lines lit to the agents working right now" width="900">
+  </picture>
+</p>
 
 ## Talk to the lead
 
