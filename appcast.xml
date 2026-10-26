@@ -3,6 +3,17 @@
     <channel>
         <title>Sighting</title>
         <item>
+            <title>0.1.7</title>
+            <pubDate>Mon, 26 Oct 2026 02:01:23 +0000</pubDate>
+            <sparkle:fullReleaseNotesLink>https://github.com/ompatel-24/sighting-releases/releases/tag/v0.1.7</sparkle:fullReleaseNotesLink>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>0.1.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text"><![CDATA[Fix onboarding resource crash and audit findings
+]]></description>
+            <enclosure url="https://github.com/ompatel-24/sighting-releases/releases/download/v0.1.7/Sighting-0.1.7.zip" length="6724582" type="application/octet-stream" sparkle:edSignature="KkCumGs8S5gVXATUhkqsL7DXOgt+9rbQjvksIhXizyygUQ89I4wCpT8qH/rXCnp7JTnpgQMAWfj9oLNzUmSxCg=="/>
+        </item>
+        <item>
             <title>0.1.6</title>
             <pubDate>Fri, 23 Oct 2026 04:25:08 +0000</pubDate>
             <sparkle:fullReleaseNotesLink>https://github.com/ompatel-24/sighting-releases/releases/tag/v0.1.6</sparkle:fullReleaseNotesLink>
