@@ -105,7 +105,7 @@ Sighting lives at the top of your screen. Hover the notch, or press <kbd>⌃</kb
 ## Get started
 
 1. [Download Sighting](https://github.com/ompatel-24/sighting-releases/releases/latest/download/Sighting.dmg), open the DMG and drag Sighting into Applications.
-2. Sign in with your email. Sighting sends you a 6-digit code; there's no password.
+2. Create an account with your email and a password. Sighting emails you a 6-digit code to confirm the address.
 3. Install and sign in to at least one agent CLI: [Claude Code](https://code.claude.com/docs) or [Codex](https://github.com/openai/codex).
 4. Pick a project folder and say hello to your lead.
 
