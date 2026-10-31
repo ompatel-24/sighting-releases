@@ -3,6 +3,17 @@
     <channel>
         <title>Sighting</title>
         <item>
+            <title>0.1.11</title>
+            <pubDate>Sat, 31 Oct 2026 00:02:41 +0000</pubDate>
+            <sparkle:fullReleaseNotesLink>https://github.com/ompatel-24/sighting-releases/releases/tag/v0.1.11</sparkle:fullReleaseNotesLink>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>0.1.11</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text"><![CDATA[CI hang: short subprocesses write to temp files, so a helper holding stderr can't block git
+]]></description>
+            <enclosure url="https://github.com/ompatel-24/sighting-releases/releases/download/v0.1.11/Sighting-0.1.11.zip" length="14214964" type="application/octet-stream" sparkle:edSignature="ndh3PEsopIBYK33t3tvoie5tptWxXPiuxhTOmADrFgIfaei1Hy5bcv0rLis44ip03pfI4iFUC+H2FWPAV4EwCg=="/>
+        </item>
+        <item>
             <title>0.1.10</title>
             <pubDate>Wed, 28 Oct 2026 21:23:32 +0000</pubDate>
             <sparkle:fullReleaseNotesLink>https://github.com/ompatel-24/sighting-releases/releases/tag/v0.1.10</sparkle:fullReleaseNotesLink>
@@ -23,17 +34,6 @@
             <description sparkle:format="plain-text"><![CDATA[Email + password accounts
 ]]></description>
             <enclosure url="https://github.com/ompatel-24/sighting-releases/releases/download/v0.1.9/Sighting-0.1.9.zip" length="8439271" type="application/octet-stream" sparkle:edSignature="Zao0+nGA0mg2ILyN50S/p+89yMpMwQlC+kmO2LtyCUcNGwwh+8w1R3xqwyipRT7XokxM9VC+TIe+OGcMXbywDA=="/>
-        </item>
-        <item>
-            <title>0.1.8</title>
-            <pubDate>Mon, 26 Oct 2026 21:47:30 +0000</pubDate>
-            <sparkle:fullReleaseNotesLink>https://github.com/ompatel-24/sighting-releases/releases/tag/v0.1.8</sparkle:fullReleaseNotesLink>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>0.1.8</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[Redesign v2
-]]></description>
-            <enclosure url="https://github.com/ompatel-24/sighting-releases/releases/download/v0.1.8/Sighting-0.1.8.zip" length="8214890" type="application/octet-stream" sparkle:edSignature="C5q2ybXCuDY9NDJYTB58XtflEqbMzq6R4J7X8xK5NDTmTNyE3X+yCFsoPmDwHBGZJCmBgWXI4O9e0I7qoClHCw=="/>
         </item>
         <item>
             <title>0.1.6</title>
