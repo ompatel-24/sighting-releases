@@ -3,6 +3,19 @@
     <channel>
         <title>Sighting</title>
         <item>
+            <title>0.1.14</title>
+            <pubDate>Wed, 04 Nov 2026 01:58:54 +0000</pubDate>
+            <sparkle:fullReleaseNotesLink>https://github.com/ompatel-24/sighting-releases/releases/tag/v0.1.14</sparkle:fullReleaseNotesLink>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>0.1.14</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text"><![CDATA[- Agents: tell workers about Vercel's agent-browser and agent-desktop
+- Team: failed steps, fenced reports, memory that stays forgotten, loose tool args
+- Release: ship only when asked, with notes for every PR since the last release
+]]></description>
+            <enclosure url="https://github.com/ompatel-24/sighting-releases/releases/download/v0.1.14/Sighting-0.1.14.zip" length="14275120" type="application/octet-stream" sparkle:edSignature="9n02yLNRmOHx0oCxfaF0jE6mthByFiZ3+0hppsp3N9kI3GEKwQOX73cWZLppEqKLTleJP8u0SVYqHVei75YuBQ=="/>
+        </item>
+        <item>
             <title>0.1.13</title>
             <pubDate>Tue, 03 Nov 2026 15:27:45 +0000</pubDate>
             <sparkle:fullReleaseNotesLink>https://github.com/ompatel-24/sighting-releases/releases/tag/v0.1.13</sparkle:fullReleaseNotesLink>
@@ -23,17 +36,6 @@
             <description sparkle:format="plain-text"><![CDATA[Terminals: a stopped session's mark is a hollow ink-3 square
 ]]></description>
             <enclosure url="https://github.com/ompatel-24/sighting-releases/releases/download/v0.1.12/Sighting-0.1.12.zip" length="14232853" type="application/octet-stream" sparkle:edSignature="/6I5d0j6R2Ezxpxxy5glR6yQxGVzMFDKCvPYQQlk9WgZnA3PaA93bt8z5X/4jvbD09lPJotKtf3RxvyUEWLXCQ=="/>
-        </item>
-        <item>
-            <title>0.1.11</title>
-            <pubDate>Sat, 31 Oct 2026 00:02:41 +0000</pubDate>
-            <sparkle:fullReleaseNotesLink>https://github.com/ompatel-24/sighting-releases/releases/tag/v0.1.11</sparkle:fullReleaseNotesLink>
-            <sparkle:version>11</sparkle:version>
-            <sparkle:shortVersionString>0.1.11</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[CI hang: short subprocesses write to temp files, so a helper holding stderr can't block git
-]]></description>
-            <enclosure url="https://github.com/ompatel-24/sighting-releases/releases/download/v0.1.11/Sighting-0.1.11.zip" length="14214964" type="application/octet-stream" sparkle:edSignature="ndh3PEsopIBYK33t3tvoie5tptWxXPiuxhTOmADrFgIfaei1Hy5bcv0rLis44ip03pfI4iFUC+H2FWPAV4EwCg=="/>
         </item>
         <item>
             <title>0.1.6</title>
